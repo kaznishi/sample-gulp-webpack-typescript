@@ -1,0 +1,26 @@
+{
+  "name": "sample-gulp-webpack-typescript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kaznishi/sample-gulp-webpack-typescript.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kaznishi/sample-gulp-webpack-typescript/issues"
+  },
+  "homepage": "https://github.com/kaznishi/sample-gulp-webpack-typescript#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-connect": "^3.1.0",
+    "gulp-webpack": "^1.5.0",
+    "ts-loader": "^0.8.1",
+    "typescript": "^1.8.7"
+  }
+}
